@@ -1,0 +1,23 @@
+body {
+  --bs-body-bg: #0b0b0b;
+  font-family: Montserrat, sans-serif;
+  box-shadow: inset 0px 0px 20px 3px rgb(77,77,77);
+  min-height: 100vh;
+}
+
+.a {
+}
+
+.social-btn {
+  transition: all .3s;
+  height: 50px;
+  width: 50%;
+  background: #0a0a0a;
+  border-radius: 15px;
+}
+
+.social-btn:hover {
+  transform: scale(1.03);
+  background: rgb(40,40,40);
+}
+
